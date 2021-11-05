@@ -3,3 +3,6 @@ __pycache__
 *.py
 mypackage
 playground
+*.txt
+downloads
+*.gif
